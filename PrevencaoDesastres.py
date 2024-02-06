@@ -1,3 +1,10 @@
+'''
+A iniciatica desse codigo e parte de um projeto de pit da minha pos graduação de Data Science, o objetivo é criar um projeto que seja capaz de prever sesatres naturais baseados em dados ambientais e climáticas.
+Esse é um prototipo que utiliza aprendizado de maquina para aprender e tentar prever proximos desastres, sendo interligado a sistemas de monitoramento e alestas para auxilio da autoridades competentes e pesquisadores 
+que tem real interesse nesse estudo para previnir e estudar possiveis desatres para se antecipar ao mesmo.
+'''
+
+
 # Importar as bibliotecas necessárias
 import numpy as np
 import pandas as pd
